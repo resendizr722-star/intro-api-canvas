@@ -1,0 +1,13 @@
+/* ============================================================
+   ESTILOS DEL CANVAS
+   ============================================================ */
+
+#lienzo {
+  background-color: #f0f0f0;   /* Gris claro */
+  border: 1px solid #ccc;     /* Borde suave del canvas */
+  border-radius: 12px;        /* Orillas redondeadas del canvas */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra del canvas */
+  display: block;
+  margin: 20px auto;
+}
+
